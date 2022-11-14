@@ -2,4 +2,8 @@ class kamesh
 
 sop "hello"
 
-class Object foo = new Object();
+class mohit
+sop"hello mohit"
+
+
+
