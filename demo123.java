@@ -8,4 +8,4 @@ class Object foo = new Object();
 2
 3
 4
-56
+56000000000000000000000
